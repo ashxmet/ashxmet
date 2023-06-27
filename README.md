@@ -1,3 +1,5 @@
+![Header Image](https://github.com/ashxmet/profile-images/blob/main/gitcover.png)
+
 ## About Me
 I'm Ashley, a software engineer and graphic designer with a passion for fun and functional projects. When I'm not coding, I'm probably gaming or reading fantasy novels. I love coding, Thai food, sweet tea, and long walks on foreign beaches.
 
